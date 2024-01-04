@@ -1,0 +1,52 @@
+.logindiv{
+    border-left: 10px solid #087dfb;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #087dfba3;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+}
+
+.form{
+    margin-top: 50px;
+    border: 10px solid #fff;
+    text-align: center;  
+}
+
+
+.input{
+    box-shadow: 1px 1px 2px #087dfba3;
+    border: 2px solid #087dfb;
+    border-radius: 5px;
+    width: 50%;
+    height: 20px;
+}
+
+.divinput{
+    margin-top: 10px;
+    text-align: center;
+}
+
+label{
+    padding-right: 170px;
+    text-align: start;
+    
+}
+
+.button{
+    border: 2px solid #087dfb;
+    box-shadow: 1px 1px 2px #087dfba3;
+    background-color: #ffffff;
+    width: 30%;
+    border-radius: 20px;
+}
+
+#fpass{
+    color: #087dfb;
+    padding: 5px;
+}
+
